@@ -1,0 +1,8 @@
+#
+Uname command is used to display basic information about the operating system and hardware. With options, Uname prints kernel details, and system architecture.
+
+Uname is the short name for 'UNIX name'. Uname command works on all Linux and Unix like operating systems.
+
+
+In my system, the unmame command prints:
+LINUX
